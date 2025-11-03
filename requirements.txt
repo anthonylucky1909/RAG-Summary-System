@@ -1,0 +1,9 @@
+fastapi
+haystack-ai
+sentence-transformers
+tiktoken
+torch
+transformers
+uvicorn
+
+#pip install -r requirements.txt
